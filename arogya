@@ -1,0 +1,6 @@
+def disease (name):
+  list1=['fever','cough']
+  if name in list1:
+    print ("disease")
+  else:
+    print ("Not a disease")
